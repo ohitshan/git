@@ -1,7 +1,7 @@
 import React from "react";
 
 function second() {
-  return <div>second</div>;
+  return <div>secondgfdhgf</div>;
 }
 
 export default second;
