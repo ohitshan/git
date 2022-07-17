@@ -6,6 +6,7 @@ function hello() {
       {" "}
       the main all of branches are deleted new commit
       <div>hi</div>
+      <div>iam main commit</div>
     </div>
   );
 }
