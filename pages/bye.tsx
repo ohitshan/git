@@ -1,7 +1,7 @@
 import React from "react";
 
 function bye() {
-  return <div>bye</div>;
+  return <div>byegfdhfgh</div>;
 }
 
 export default bye;
